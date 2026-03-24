@@ -20,6 +20,6 @@ vless://fc48d39b-b5ab-403f-9de0-ea4036c533c3@146.185.208.66:443?security=reality
 
 vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@5.253.40.7:2053?security=reality&encryption=none&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=music.yandex.ru&sid=0858af97f4e7324d#%5BKrolekVPNReborn%5D+Poland+%F0%9F%87%B5%F0%9F%87%B1+%7C+LTE
 
-vless://35b5accb-6830-4b99-a041-929de8714a3e@89.208.198.189:443?security=reality&encryption=none&echfq=none&pbk=AILje-JQmKcUK0n5YuduzNLCleJEog8RAYn9KkPn3G8&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=d5a853173b23a306#%5BKrolekVPNReborn%5D+Nederlands+%F0%9F%87%B3%F0%9F%87%B1+%7C+LTE
+vless://167fb330-00a3-4e37-858d-a979e61eb818@212.233.89.75:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#%5BKrolekVPNReborn%5D+Nederlands+%F0%9F%87%B3%F0%9F%87%B1+%7C+LTE
 
 vless://d3cecdcf-7fdf-0014-9f9a-19eac9a16d6a@185.130.112.31:443?security=reality&encryption=none&echfq=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#%5BKrolekVPNReborn%5D+Cyprus+%F0%9F%87%A8%F0%9F%87%BE+%7C+LTE
